@@ -9,4 +9,8 @@ pablo_macro_case is main case
 
 pablo_macro_case_lid is lid for that case
 
-to assemble this whole thing 
+to assemble this whole thing you need to obtain pcb case case lid and all components from above
+also you will need soldering iron and flux to make stable connections beetwen components and pcb
+
+<img width="1155" height="685" alt="image" src="https://github.com/user-attachments/assets/24cf2ee7-0dbc-4cae-bdbc-7554550037ed" />
+<img width="1297" height="778" alt="image" src="https://github.com/user-attachments/assets/edef2e22-a5e0-4c1a-93c8-56193750b378" />
