@@ -8,6 +8,7 @@ all of them are called pablo_macro_case
 pablo_macro_case is main case 
 
 pablo_macro_case_lid is lid for that case
+in summary case is 117x77x19mm (raw case without switches and keycaps)
 
 to assemble this whole thing you need to obtain pcb case case lid and all components from above
 also you will need soldering iron and flux to make stable connections beetwen components and pcb
